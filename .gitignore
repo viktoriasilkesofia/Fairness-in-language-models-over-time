@@ -1,0 +1,16 @@
+data/
+results/
+results_*/
+result/
+result_*/
+cache/
+
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.venv/
+venv/
+.DS_Store
+wandb/
+.cache/
